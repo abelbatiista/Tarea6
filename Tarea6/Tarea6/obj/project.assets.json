@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\abelb\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Gabriel Guerrero\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abelb\\Desktop\\ITLA\\CUATRIMESTRES\\CUATRIMESTRE V\\I. PROGRAMACIÓN III\\MÓDULO VI - GITHUB\\I. ACTIVIDAD\\.O. PROGRAM\\Tarea6\\Tarea6\\Tarea6.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel Guerrero\\Desktop\\Tarea6\\Tarea6\\Tarea6\\Tarea6.csproj",
       "projectName": "Tarea6",
-      "projectPath": "C:\\Users\\abelb\\Desktop\\ITLA\\CUATRIMESTRES\\CUATRIMESTRE V\\I. PROGRAMACIÓN III\\MÓDULO VI - GITHUB\\I. ACTIVIDAD\\.O. PROGRAM\\Tarea6\\Tarea6\\Tarea6.csproj",
-      "packagesPath": "C:\\Users\\abelb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abelb\\Desktop\\ITLA\\CUATRIMESTRES\\CUATRIMESTRE V\\I. PROGRAMACIÓN III\\MÓDULO VI - GITHUB\\I. ACTIVIDAD\\.O. PROGRAM\\Tarea6\\Tarea6\\obj\\",
+      "projectPath": "C:\\Users\\Gabriel Guerrero\\Desktop\\Tarea6\\Tarea6\\Tarea6\\Tarea6.csproj",
+      "packagesPath": "C:\\Users\\Gabriel Guerrero\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel Guerrero\\Desktop\\Tarea6\\Tarea6\\Tarea6\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\abelb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gabriel Guerrero\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
